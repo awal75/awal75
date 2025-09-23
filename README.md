@@ -24,8 +24,8 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmnt92&theme=tokyonight">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmnt92&theme=tokyonight">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmnt92&theme=tokyonight&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=asmnt92&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmnt92&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=asmnt92&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmnt92&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
 </div>
 
@@ -34,9 +34,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=asmnt92&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=asmnt92&hide_border=true&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=asmnt92&icon=7&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
